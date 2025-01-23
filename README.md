@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaut-raj" alt="gaut-raj" /></a> </p>
 
-- 🔭 I’m currently working on **a Chip-8 Emulator**
+- 🔭 I’m currently working on **a Chrome Extension**
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **D3js**
 
 - 💬 Ask me about **Java, Python,nodeJS, express**
 
