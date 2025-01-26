@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a third-year Computer Science student at the University of North Carolina at Charlotte with a passion for building innovative solutions and improving education through technology. With hands-on experience in software development and full-stack projects, I love exploring new technologies and solving real-world problems.
+I'm a senior studying Computer Science  at the University of North Carolina at Charlotte with a passion for building innovative solutions. With hands-on experience in software development and full-stack projects, I love exploring new technologies and solving real-world problems.
 
 ---
 
