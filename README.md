@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021...<br>📚 I'm currently learning Vue...<br>🎯 Goals: My goal is to become a full stack software Engineer ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021...<br>📚 I'm currently learning Vue...<br>🎯 Goals: My goal is to become a full stack software Engineer ...<br>🎲 Fun fact: I got into coding because I enjoyed playing video games and wanted to find out the development process behind them. ...</p>
 
 ###
 
