@@ -1,45 +1,39 @@
-# Hi there, I'm Gautham Govindaraj 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## 🚀 About Me
+###
 
-I'm a senior studying Computer Science  at the University of North Carolina at Charlotte with a passion for building innovative solutions. With hands-on experience in software development and full-stack projects, I love exploring new technologies and solving real-world problems.
+<p align="left">My name is Gautham Govindaraj (Gow-Thum) and I'm a Computer Science student from Charlotte Studying Computer Science at the University of North Carolina at Charlotte</p>
 
----
+###
 
-## 🛠️ Technologies & Tools
+<h2 align="left">About me</h2>
 
-### Languages & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
-![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
----
+###
 
-## 📈 Stats
+<h2 align="left">I code with</h2>
 
-![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaut-raj&show_icons=true&theme=radical)
+###
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaut-raj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
----
-
-## 🤝 Let's Connect
-- **Email:** govindaraj.gautham@gmail.com
-- **LinkedIn:** [linkedin.com/in/gautham-govindaraj](https://linkedin.com/in/gautham-govindaraj)
-- **GitHub:** [github.com/gaut-raj](https://github.com/gaut-raj)
-
----
-
-Let's collaborate on open-source projects, innovative ideas, or anything tech-related! Feel free to reach out or check out my repositories. 😄
+###
