@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at On github
+- 👨‍💻 All of my projects are available On github
 
 - 💬 Ask me about **Python, Node.js, Java**
 
