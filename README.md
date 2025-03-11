@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaut-raj" alt="gaut-raj" /></a> </p>
 
-- 🔭 I’m currently working on **marvel rivals discord bot**
+- 🔭 I’m currently working on a discord bot for the university of North Carolina at Charlotte
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [on github](on github)
+- 👨‍💻 All of my projects are available at On github
 
 - 💬 Ask me about **Python, Node.js, Java**
 
 - 📫 How to reach me **govindaraj.gautham@gmail.com**
 
-- ⚡ Fun fact **I love learning about wildlife and story based games like Red dead redemption 2 and Witcher 3**
+- ⚡ Fun fact **I love learning about wildlife and playing story based games like Red dead redemption 2 and Witcher 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
