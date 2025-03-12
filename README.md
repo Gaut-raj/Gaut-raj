@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **govindaraj.gautham@gmail.com**
 
-- ⚡ Fun fact **I love learning about wildlife and playing story based games like Red dead redemption 2 and Witcher 3**
+- ⚡ Fun fact: **I love learning about wildlife and playing story based games like Red dead redemption 2 and Witcher 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
