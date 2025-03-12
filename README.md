@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaut-raj" alt="gaut-raj" /></a> </p>
 
-- 🔭 I’m currently working on a discord bot for the university of North Carolina at Charlotte
+- 🔭 I’m currently working on a discord bot for the marvel rivals video game
 
 - 🌱 I’m currently learning **Vue.js**
 
