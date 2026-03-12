@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaut-raj" alt="gaut-raj" /></a> </p>
 
-- 🔭 I’m currently Working on a Machine learning model to predict over/under totals for the Regular 2025 NFL Season.
+- 🔭 I’m currently Working on a Chrome Extenstion for sports data.
 
 - 🌱 I’m currently learning **Vue.js**
 
